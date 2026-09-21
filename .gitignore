@@ -1,0 +1,19 @@
+# Raw datasets
+data/raw/
+
+# Cleaned datasets
+data/cleaned/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.venv/
+
+# VS Code settings
+.vscode/
